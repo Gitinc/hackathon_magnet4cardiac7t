@@ -1,4 +1,4 @@
-# Hackathon 
+# Group six solution to Hackathon 
 ### Spring School on *Physics Informed Machine Learning for Medical Sciences*
 Welcome to the Hackathon accompanying the 2025 Spring School on *Physics Informed Machine Learning for Medical Sciences*.
 
